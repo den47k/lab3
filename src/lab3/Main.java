@@ -1,5 +1,8 @@
 package lab3;
 import java.util.Scanner;
+/*
+Виконав Герасимчук Даниіл ІО-33 (Додаткова інформація в READ)
+*/
 
 public class Main {
 
